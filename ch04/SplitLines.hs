@@ -1,4 +1,5 @@
 -- file: ch04/SplitLines.hs
+
 splitLines :: String -> [String]
 splitLines [] = []
 splitLines cs = 
