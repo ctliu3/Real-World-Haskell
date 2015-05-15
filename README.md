@@ -6,5 +6,6 @@ Notes when reading the book 《[Real World Haskell] [1]》
 4. Functional programming
 5. Writing a Library: Working with JSON Data
 6. Using Typeclasses
+7. I/O
 
 [1]: (http://book.realworldhaskell.org/)

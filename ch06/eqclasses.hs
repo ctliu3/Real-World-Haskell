@@ -16,3 +16,9 @@ instance BasicEq Bool where
   isEqual True True = True
   isEqual False False = True
   isEqual _ _ = False
+
+instance BasicEq3 Color where
+  isEqual3 Red Red = True
+  isEqual3 Green Green = True
+  isEqual3 Blue Blue = True
+  isEqual3 _ _ = False
